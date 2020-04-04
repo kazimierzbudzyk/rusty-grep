@@ -1,5 +1,5 @@
 [package]
-name = "rusty-grep"
+name = "rustygrep"
 version = "0.1.0"
 authors = ["kbudzyk <kbudzyk@palantir.com>"]
 edition = "2018"
